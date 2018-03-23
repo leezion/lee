@@ -8,5 +8,7 @@ public static void main(String [] args) {
 	for (i=0;i<10; i++) {
 		System.out.println(i);
 	}
+	int sum = 0;
+	System.out.println(sum);
 }
 }
